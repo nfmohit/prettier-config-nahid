@@ -1,0 +1,13 @@
+/**
+ * ESLint configuration file.
+ *
+ * @author Nahid Ferdous Mohit.
+ * @since  1.0.0
+ */
+
+/*
+ * ESLint configuration
+ */
+{
+	"extends": [ "nahid" ]
+}
