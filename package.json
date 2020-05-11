@@ -51,7 +51,8 @@
 		"eslint-plugin-react-hooks": "^4.0.0",
 		"husky": "^4.2.5",
 		"lint-staged": "^10.2.2",
-		"prettier": "npm:wp-prettier@^1.19.1"
+		"prettier": "npm:wp-prettier@^1.19.1",
+		"prettier-config-nahid": "file:./"
 	},
 	"husky": {
 		"hooks": {
