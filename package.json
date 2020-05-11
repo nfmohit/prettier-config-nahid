@@ -1,6 +1,6 @@
 {
 	"name": "prettier-config-nahid",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Nahid's preferred Prettier config.",
 	"main": "index.js",
 	"files": [
